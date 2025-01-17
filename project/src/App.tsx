@@ -16,7 +16,7 @@ function App() {
         <div 
           className="absolute inset-0 bg-cover bg-center z-0 opacity-30"
           style={{
-            backgroundImage: "url('https://images.unsplash.com/photo-1624687943971-e86af76d57de?auto=format&fit=crop&q=80')"
+            backgroundImage: "url('https://cdn.selectgame.net/wp-content/uploads/2024/08/League-of-Legends-Diana-Blood-Moon-Wallpaper-Cover-1200x675.webp')"
           }}
         />
         <div className="absolute inset-0 bg-gradient-to-b from-slate-900/70 to-slate-900 z-1" />
